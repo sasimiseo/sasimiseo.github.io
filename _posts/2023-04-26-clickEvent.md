@@ -8,11 +8,11 @@ title: "클릭이벤트의 종류"
 |이벤트 종류|발동 조건|
 |:---:|:---|
 |[click](#click)|좌클릭 시 발동|
-|[mousedown / mouseup](#mousedown / mouseup)|클릭하여 눌렀을 시, 뗏을 시|
+|[mousedown-/-mouseup](#mousedown / mouseup)|클릭하여 눌렀을 시, 뗏을 시|
 |[dblclick](#dblclick)|빠르게 2번 좌클릭시|
 |[contextmenu](#contextmenu)|우클릭 시 발동
 |[mousemove](#mousemove)|커서를 움직였을 시
-|[mouseover / mouseout](#mouseover / mouseout )|커서가 요소 안으로 들어왔을 시, 나갔을 시&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+|[mouseover-/-mouseout](#mouseover / mouseout )|커서가 요소 안으로 들어왔을 시, 나갔을 시&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### click
 
