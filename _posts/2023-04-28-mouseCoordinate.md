@@ -1,5 +1,5 @@
 ---
-layout:single
+layout: single
 title: "마우스 좌표"
 ---
 
