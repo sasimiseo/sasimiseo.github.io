@@ -39,8 +39,8 @@ css선택자에 해당하는 모든 요소들을 반환한다. 실무에서 quer
 	
 
 ##### getElementByName
-getElementByTagName
-getElementByClassName
+##### getElementByTagName
+##### getElementByClassName
 
 각각 이름, 태그, class를 가진 요소를 반환한다.
 
