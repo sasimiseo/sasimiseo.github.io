@@ -34,7 +34,7 @@ title: "React 컴포넌트 출력"
 
 ### 다중 컴포넌트 출력
 
-#### named exports
+##### named exports
 
     function Component1(props){
         return(
@@ -55,7 +55,7 @@ title: "React 컴포넌트 출력"
 	
 복수의 컴포넌트를 출력할 경우 주로 named exports 방식을 사용한다. default export 방식과 달리 여러개의 컴포넌트를 출력할 수 있다.
 
-### export default 다중 출력
+##### export default 다중 출력
     import logo from './logo.svg';
     import './App.css';
     import {Component1,Component2} from './ComponentEx';
