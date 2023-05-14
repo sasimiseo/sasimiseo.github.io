@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "React 컴포넌트 출력"
+title: "React 엘리먼트 랜더링"
 ---
 
 ### export default 출력 방식
