@@ -1,6 +1,6 @@
 ---
-title: 챌린지 : "Pagination"
 layout: single
+title: Pagination
 ---
 
 https://codepen.io/challenges/2023/september/1
