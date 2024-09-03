@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Navigation Bar"
+title: "Sticky Navigation"
 ---
 
 https://codepen.io/challenges/2023/september/3
